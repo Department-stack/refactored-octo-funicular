@@ -1,0 +1,1 @@
+RewriteEngine On RewriteRule ^(.*)$ http://anthony.gordy.cv/$1 [L,R=301]
