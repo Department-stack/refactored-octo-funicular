@@ -15,10 +15,11 @@
             width: 100%;
             height: 100%;
             border: none;
+            display: block;
         }
     </style>
 </head>
 <body>
-    <iframe src="content.pdf"></iframe>
+    <iframe src="content.pdf" title="Resume"></iframe>
 </body>
 </html>
